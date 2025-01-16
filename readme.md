@@ -2,7 +2,7 @@
 # Counter
 > <img src="assets/img/Screenshot-counter.png" align="right"/>
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme)
+- [Repository](https://github.com/VoTk4N/Counter)
    
 
  In questo progetto ho realizzato una semplice applicazione counter.
