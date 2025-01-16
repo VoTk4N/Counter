@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+:root{
+  --color-reset--:red;
+  --color-default--: #ffff00;
+}
+
+
+body{
+  font-family: 'digital-clock-font';
+  color: #ffff00;
+  background: radial-gradient(circle, grey, black);
+  }
+
+
+@font-face{
+  font-family:'digital-clock-font';
+  src: url('/assets/font/digital-7/digital-7.ttf');
+ }
+
+
+ .header {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  padding: 0.5em;
+  /* border-bottom: 5px solid black; */
+  box-shadow: 10px 5px 20px black;
+  background-color: var(--color-default--);
+  color: black;
+  font-size: 2.5em;
+}
+
+
+
+
+
+ 
+   .container {
+    font-size: 7em;
+    margin-top: 1em;
+    border-bottom: 5px solid var(--color-default--);
+    border-top: 5px solid var(--color-default--);
+    box-shadow: 10px 5px 20px var(--color-default--);
+
+    padding: 0.5em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+   }
+
+   .btn {
+    font-size: 0.5em;
+     border: 4px solid black; 
+    color: var(--color-default--);
+    border-radius: 40px;
+    text-align: center;
+    margin: 0.25em;
+    cursor: pointer;
+    background-color: grey;
+    font-family: 'digital-clock-font';
+    padding: 0 20px;
+
+   }
+
+   .btn:hover,
+   .btn:active {
+    box-shadow: 10px 5px 20px var(--color-default--);
+    border: 3px solid black; 
+
+
+   }
+   
+
+  
+   
+
+
+     .reset{
+      font-size: 1em;
+      margin: 0;
+      border: 4px solid black;
+      color: black;
+     } 
+
+     .reset:hover{
+      color:red;
+      border: 4px solid red;
+
+
+     }
+
+
+     .container2 {
+      display: flex;
+     }
