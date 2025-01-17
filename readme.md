@@ -5,6 +5,8 @@
 - [Repository](https://github.com/VoTk4N/Counter)
 
 - [Webhost](https://counter-fd.netlify.app)
+
+- [Presentazione](https://www.canva.com/design/DAGcXaK3cNQ/6HM8DJHFpedrKXn0rnAaxA/view?utm_content=DAGcXaK3cNQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d911dcc6f)
    
 
  In questo progetto ho realizzato una semplice applicazione counter.
