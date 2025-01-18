@@ -67,6 +67,7 @@ body{
     background-color: grey;
     font-family: 'digital-clock-font';
     padding: 0 20px;
+    overflow: hidden;
 
    }
 
